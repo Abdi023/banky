@@ -1,0 +1,46 @@
+{
+    "Bankrekening": [
+        {
+            "from/to": "abdi",
+            "amount": 4000,
+            "logo": "fa-solid fa-house"
+        },
+        {
+            "from/to": "abdi",
+            "amount": -800,
+            "logo": "fa-solid fa-house"
+        },
+        {
+            "from/to": "abdi",
+            "amount": 7300,
+            "logo": "fa-solid fa-house"
+        },
+        {
+            "from/to": "abdi",
+            "amount": 1600,
+            "logo": "fa-solid fa-house"
+        },
+        {
+            "from/to": "abdi",
+            "amount": -900,
+            "logo": "fa-solid fa-house"
+        },
+        {
+            "from/to": "abdi",
+            "amount": 400,
+            "logo": "fa-solid fa-house"
+        }
+    ],
+    "ZZP-Rekening": [
+        {
+            "from/to": "Bedrijf X",
+            "amount": 1000,
+            "logo": "fa-solid fa-star"
+        },
+        {
+            "from/to": "Bedrijf Z",
+            "amount": -500,
+            "logo": "fa-solid fa-star"
+        }
+    ]
+}
